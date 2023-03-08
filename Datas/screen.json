@@ -1,0 +1,122 @@
+[
+    {
+       "id":1,
+       "screen_type":2,
+       "default_screen_type":1,
+       "icon_id":"success.png",
+       "audio_id":"success.wav",
+       "screen_duration":40,
+       "tr_out_1_duration":10,
+       "tr_out_2_duration":0,
+       "rl_1_duration":10,
+       "rl_2_duration":122,
+       "sound_duration":10,
+       "next_id":100,
+       "line_1":{
+          "text":"Sayın {{name}}",
+          "font_name":"DejaVuSans-Bold.ttf: DejaVu Sans:style=Bold",
+          "font_color":"#A93226",
+          "background_color":"D6EAF8"
+       },
+       "line_2":{
+          "text":"Görev {{position}}",
+          "font_name":"DejaVuSans-Bold.ttf: DejaVu Sans:style=Bold",
+          "font_color":"#A93226",
+          "background_color":"D6EAF8"
+       },
+       "line_3":{
+          "text":"{{uid}}",
+          "font_name":"DejaVuSans-Bold.ttf: DejaVu Sans:style=Bold",
+          "font_color":"#A93226",
+          "background_color":"D6EAF8"
+       },
+       "footer":{
+          "text":"",
+          "font_name":"DejaVuSans-Bold.ttf: DejaVu Sans:style=Bold",
+          "font_color":"#A93226",
+          "background_color":"D6EAF8"
+       },
+       "infinite":false,
+       "is_blink":true
+    },
+    {
+       "id":2,
+       "screen_type":3,
+       "default_screen_type":1,
+       "icon_id":"undefined.png",
+       "audio_id":"undefined.wav",
+       "screen_duration":40,
+       "tr_out_1_duration":0,
+       "tr_out_2_duration":0,
+       "rl_1_duration":0,
+       "rl_2_duration":0,
+       "sound_duration":10,
+       "next_id":100,
+       "line_1":{
+          "text":"Tanımsız Kart",
+          "font_name":"DejaVuSans-Bold.ttf: DejaVu Sans:style=Bold",
+          "font_color":"#A93226",
+          "background_color":"D6EAF8"
+       },
+       "line_2":{
+          "text":"UID {{uid}}",
+          "font_name":"DejaVuSans-Bold.ttf: DejaVu Sans:style=Bold",
+          "font_color":"#A93226",
+          "background_color":"D6EAF8"
+       },
+       "line_3":{
+          "text":"",
+          "font_name":"DejaVuSans-Bold.ttf: DejaVu Sans:style=Bold",
+          "font_color":"#A93226",
+          "background_color":"D6EAF8"
+       },
+       "footer":{
+          "text":"",
+          "font_name":"DejaVuSans-Bold.ttf: DejaVu Sans:style=Bold",
+          "font_color":"#A93226",
+          "background_color":"D6EAF8"
+       },
+       "infinite":false,
+       "is_blink":true
+    },
+    {
+       "id":6,
+       "screen_type":3,
+       "default_screen_type":1,
+       "icon_id":"unauthorized.png",
+       "audio_id":"unauthorized.wav",
+       "screen_duration":40,
+       "tr_out_1_duration":0,
+       "tr_out_2_duration":0,
+       "rl_1_duration":0,
+       "rl_2_duration":0,
+       "sound_duration":10,
+       "next_id":100,
+       "line_1":{
+          "text":"Sayın {{name}}",
+          "font_name":"DejaVuSans-Bold.ttf: DejaVu Sans:style=Bold",
+          "font_color":"#A93226",
+          "background_color":"D6EAF8"
+       },
+       "line_2":{
+          "text":"Geçiş Yetkiniz Yok",
+          "font_name":"DejaVuSans-Bold.ttf: DejaVu Sans:style=Bold",
+          "font_color":"#A93226",
+          "background_color":"D6EAF8"
+       },
+       "line_3":{
+          "text":"{{uid}}",
+          "font_name":"DejaVuSans-Bold.ttf: DejaVu Sans:style=Bold",
+          "font_color":"#A93226",
+          "background_color":"D6EAF8"
+       },
+       "footer":{
+          "text":"",
+          "font_name":"DejaVuSans-Bold.ttf: DejaVu Sans:style=Bold",
+          "font_color":"#A93226",
+          "background_color":"D6EAF8"
+       },
+       "infinite":false,
+       "is_blink":true
+    }
+ ]
